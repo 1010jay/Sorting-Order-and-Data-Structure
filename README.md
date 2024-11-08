@@ -1,14 +1,14 @@
-# Radix Sort Implementations in Python and C++
+# Sorting, Order, and Data Structures
 
-This project provides implementations of the Radix Sort algorithm in both Python and C++. The code efficiently sorts a list of product IDs ranging from 0 to 9999, making it ideal for applications like inventory management where quick sorting of large datasets is crucial.
+This project provides implementations of the Sorting, order, and Data structures in both Python and C++. 
 
 ## Project Structure
 
 
-- **C++ Code/**: Contains the C++ implementation of Radix Sort.
-  - `test.cpp`: Source code file with the Radix Sort function and a usage example.
-- **Python Code/**: Contains the Python implementation of Radix Sort.
-  - `test.py`: Script file with the Radix Sort function and a usage example.
+- **C++ implementation/**: Contains the C++ implementation.
+  - `index.cpp`: Main source code file.
+- **Python implementation/**: Contains the Python implementation of .
+  - `index.py`: Main script file.
 
 ## Getting Started
 
@@ -22,29 +22,30 @@ This project provides implementations of the Radix Sort algorithm in both Python
 
 ### Running the Python Code
 
-1. Navigate to the `Python Code` directory:
+1. Navigate to the `Python implementation` directories:
 
    ```bash
-   cd "Python Code"
+   cd "Python implementation"
 2. Run the script:
-    python test.py
+    python index.py
 
 ### Running the C++ Code
 
-1. Navigate to the `C++ Code` directory:
+1. Navigate to the `C++ implementation` directories:
 
     ```bash
-    cd "C++ Code"
+    cd "C++ implementation"
 
 2. Compile the code using a C++ compiler:
 
-    g++ -std=c++11 -o radix_sort test.cpp
+    g++ -o output_executable index.cpp
+
 
     Replace g++ with your compiler if different
 
 3. Run the executable: 
 
-    ./radix_sort
+    ./output_executable
     
-    On Windows, run: radix_sort.exe
+    On Windows, run: output_executable.exe
 
