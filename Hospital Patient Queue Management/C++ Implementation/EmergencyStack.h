@@ -1,4 +1,3 @@
-// EmergencyStack.h
 #ifndef EMERGENCYSTACK_H
 #define EMERGENCYSTACK_H
 

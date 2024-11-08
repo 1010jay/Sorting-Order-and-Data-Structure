@@ -1,4 +1,3 @@
-// PatientQueue.h
 #ifndef PATIENTQUEUE_H
 #define PATIENTQUEUE_H
 

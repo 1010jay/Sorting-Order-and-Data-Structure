@@ -1,4 +1,3 @@
-//Example Usage
 #include "PatientQueue.h"
 #include "EmergencyStack.h"
 

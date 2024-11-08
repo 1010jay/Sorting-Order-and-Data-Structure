@@ -1,4 +1,3 @@
-// PatientQueue.cpp
 #include "PatientQueue.h"
 #include <iostream>
 

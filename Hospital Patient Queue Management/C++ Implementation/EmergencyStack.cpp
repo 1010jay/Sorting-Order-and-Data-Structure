@@ -1,4 +1,3 @@
-// EmergencyStack.cpp
 #include "EmergencyStack.h"
 #include <iostream>
 
